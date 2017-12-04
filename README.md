@@ -18,7 +18,7 @@ A complete React/Redux demo app using:
 
 This is a sample application of the React/Redux frameworks, using some of the latest web front-end development technologies.
 
-The app consists on two main different modules, which provide the possibility of managing the Burger Stores and Product lists and details.
+WIP [The app will consists on two different modules, which provide the possibility of managing the Burger Stores and configure a product lists and details].
 
 <!-- *You can see a running demo* [here](https://). -->
 
